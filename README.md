@@ -4,6 +4,8 @@
 
 <img src="data:image/svg+xml,%3Csvg%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22red%22%2F%3E%3C%2Fsvg%3E" alt="Inline SVG">
 
+<img src="svg-sample.svg">
+
 <!--
 **Dinkycodes/Dinkycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
