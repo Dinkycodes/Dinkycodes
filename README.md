@@ -14,6 +14,7 @@
 
 
 ![SVG Image](response.svg)
+ ![SVG Image](response1.svg)
 <!--
 **Dinkycodes/Dinkycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
