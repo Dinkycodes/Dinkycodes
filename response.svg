@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='610' height='390'>  <style>
+    .image { width: 100px; height: 100px; object-fit: cover;}
+  </style><rect class='card' x='10' y='10' width='610' height='390' fill='#00203FFF'/><text x='20' y='32' fill='#ADEFD1FF' font-size='16'>Dear Followers</text>
+  <text x='20' y='60' fill='#ADEFD1FF' font-size='14'>Thank You!</text>
+  <text x='20' y='130' fill='#ADEFD1FF' font-size='60'>4</text>
+  <text x='28' y='155' fill='#ADEFD1FF' font-size='15'>Followers</text>
+  <text x='20' y='180' fill='#ADEFD1FF' font-size='14'>Unveiling today's serendipitous selection from my GitHub followers: </text>
+  <text x='20' y='198' fill='#ADEFD1FF' font-size='14'>behold, the whimsical randomness!</text><image class='image' x='20' y='215' href='https://avatars.githubusercontent.com/u/24940841?v=4' /><image class='image' x='140' y='215' href='https://avatars.githubusercontent.com/u/47430686?v=4' /><image class='image' x='260' y='215' href='https://avatars.githubusercontent.com/u/67488936?v=4' /><image class='image' x='380' y='215' href='https://avatars.githubusercontent.com/u/18647044?v=4' /><text x='20' y='340' fill='#ADEFD1FF' font-size='12'>Your's Sincerely</text>
+  <text x='20' y='360' fill='#ADEFD1FF' font-size='15'>shanthi-rajendran</text></svg>
